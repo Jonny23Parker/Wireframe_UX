@@ -1,6 +1,6 @@
 # Wireframe_UX
 
-Wireframe de Média Fidelidade Landing Page
+Wireframe de Média Fidelidade
 
 Link para visualização
 
